@@ -56,7 +56,10 @@ const skillsSection = {
     ),
     emoji("⚡ Employ patterns and practices for managing cloud infrastructure"),
     emoji(
-      "⚡ Empower teams with shift testing left and integrated security in CI/CD"
+      "⚡ Developer productivity engineering through automation"
+    ),
+    emoji(
+      "⚡ Security first approach to cloud engineering"
     )
   ],
 
@@ -196,28 +199,54 @@ const workExperiences = {
     {
       role: "Platform Engineer",
       company: "The Sustainables",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      companylogo: require("./assets/images/ts.png"),
       date: "January 2022 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      desc: "Provide DevOps support and enable automation, scaling and security",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Azure Administration",
+        "Manage and monitor CI/CD pipelines",
+        "Integrate security auditing with industry standard tooling",
+        "Assist with Terraform adoption for infrastructure as code"
+      ]
+    },
+    {
+      role: "Business Owner",
+      company: "Outeniqua Studios",
+      companylogo: require("./assets/images/out.png"),
+      date: "2016 – 2018",
+      desc: "Provided consultancy services",
+      descBullets: [
+        "DevOps and automation services",
+        "Bespoke web development for local SMME's",
+        "Started a greenfields Unity project to promote the independent video game industry in South Africa",
       ]
     },
     {
       role: "Team Lead",
       company: "Entersekt",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      companylogo: require("./assets/images/entersekt.png"),
+      date: "2018 – 2020",
+      desc: "Leading of Quality Engineering team",
+      descBullets: [
+        "VMWARE Administration",
+        "Manage and monitor CI/CD pipelines",
+        "Strategize test planning for GA releases and Black Friday War Room",
+        "Involved with adoption of Kubernetes"
+      ]
     },
     {
       role: "Senior Quality Assurance Engineer",
       company: "DigiOutsource",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    }
+      companylogo: require("./assets/images/digi.png"),
+      date: "2016 – 2018",
+      desc: "Test automation and agile quality delivery",
+      descBullets: [
+        "Coach and mentor junior engineers",
+        "Maintain and build on automation frameworks",
+        "Improve existing test strategies mature to Agile delivery methods",
+      ]
+    },
+    
   ]
 };
 
@@ -363,7 +392,7 @@ const talkSection = {
       event_url: "https://www.facebook.com/events/2339906106275053/"
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Podcast Section
