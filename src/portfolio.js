@@ -191,6 +191,10 @@ const techStack = {
       Stack: "Linux",
       progressPercentage: "80%"
     },
+    {
+      Stack: "Docker",
+      progressPercentage: "80%"
+    },
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
