@@ -23,7 +23,7 @@ const greeting = {
   username: "opesinorbit",
   title: "Hi, I'm Jonathan Opperman",
   subTitle: emoji(
-    "A passionate DevOps Engineer 🚀 with experience in testing, automation and working with cool stuff like Azure, Terraform and OWASP!"
+    "I'm passionate about DevOps and test architure with experience in platform engineering test automation and working with cool stuff like Azure, Docker and IaC!"
   ),
   resumeLink:
     "https://drive.google.com/file/d/1NBJ7vcFbtyDmHwcgBbwXYH3Sh3WtrnOH/view?usp=sharing", // Set to empty to hide the button
@@ -49,17 +49,17 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY DEVOPS ENGINEER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "CRAZY DEVOPS AND TEST ARCHITECT WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
-      "⚡ Develop and deploy solutions that scale development teams in DevOps"
+      "- Develop and deploy solutions that scale development teams in DevOps"
     ),
-    emoji("⚡ Employ patterns and practices for managing cloud infrastructure"),
+    emoji("- Architect test automation strategies using DevOps & Agile practices"),
     emoji(
-      "⚡ Developer productivity engineering through automation"
+      "- Developer productivity engineering through automation"
     ),
     emoji(
-      "⚡ Security first approach to cloud engineering"
+      "- Security first approach to cloud engineering"
     )
   ],
 
@@ -76,7 +76,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-dev"
     },
     {
-      skillName: "datadog",
+      skillName: "monitoring",
       fontAwesomeClassname: "fab fa-watchman-monitoring"
     },
     {
