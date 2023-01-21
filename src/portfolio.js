@@ -386,7 +386,7 @@ const blogSection = {
     {
       url: "https://opesinorbit.medium.com/applying-herzbergs-two-factor-theory-to-remote-work-a2b5dd4479",
       title: "Herzberg's Two-Factor Theory and Remote Work",
-      description: "How managers can apply Herzberg's two-factor theory to motivate and guage employee performance and satisfaction in remote work"
+      description: "How managers can apply Herzberg's two-factor theory to motivate and guage employee performance and satisfaction to remote work."
     }
   ],
   display: true // Set false to hide this section, defaults to true
