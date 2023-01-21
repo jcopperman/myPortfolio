@@ -376,7 +376,7 @@ const blogSection = {
     {
       url: "https://opesinorbit.medium.com/the-recruitment-trap-74e206517acc",
       title: "The recruitment trap",
-      description: "My learnings on working with recruiters and some thoughts I’d like to share with fellow technocrats."
+      description: "My learnings on working with recruiters and some thoughts I’d like to share with my fellow technocrats."
     }
   ],
   display: true // Set false to hide this section, defaults to true
