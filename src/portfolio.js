@@ -381,13 +381,17 @@ const blogSection = {
     {
       url: "https://opesinorbit.medium.com/salvage-your-ups-batteries-e6de1c4c3934",
       title: "Upcycle your tired UPS",
-      description: "Save some money and get some extra life out of your old backup power supplies"
+      description: "Save some money and get some extra life out of your old backup power supplies."
+    },
+    {
+      url: "https://opesinorbit.medium.com/applying-herzbergs-two-factor-theory-to-remote-work-a2b5dd4479",
+      title: "Herzberg's Two-Factor Theory and Remote Work",
+      description: "How managers can apply Herzberg's two-factor theory to motivate and guage employee performance and satisfaction in remote work"
     }
   ],
   display: true // Set false to hide this section, defaults to true
 };
-// https://opesinorbit.medium.com/the-recruitment-trap-74e206517acc
-// Talks Sections
+
 
 const talkSection = {
   title: "TALKS",
