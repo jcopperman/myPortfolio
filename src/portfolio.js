@@ -21,7 +21,7 @@ const illustration = {
 
 const greeting = {
   username: "opesinorbit",
-  title: "Hi, I'm Jonathan Opperman",
+  title: "Hi, I'm Jonathan Opperman, but you can call me Jono!",
   subTitle: emoji(
     "I'm passionate about DevOps and test architure with experience in platform engineering test automation and working with cool stuff like Azure, Docker and IaC!"
   ),
@@ -104,7 +104,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-linux"
     },
     {
-      skillName: "owasp",
+      skillName: "security",
       fontAwesomeClassname: "fas fa-user-secret"
     },
     {
@@ -372,11 +372,16 @@ const blogSection = {
       url: "https://medium.com/@opesinorbit/the-end-to-end-saga-cfa870d2d80f",
       title: "The end to end saga",
       description: "End to end testing is such a dug up dead horse that nobody wants to talk about anymore and for good reason: It's a moot topic."
+    },
+    {
+      url: "https://opesinorbit.medium.com/the-recruitment-trap-74e206517acc",
+      title: "The recruitment trap",
+      description: "My learnings on working with recruiters and some thoughts I’d like to share with fellow technocrats."
     }
   ],
   display: true // Set false to hide this section, defaults to true
 };
-
+// https://opesinorbit.medium.com/the-recruitment-trap-74e206517acc
 // Talks Sections
 
 const talkSection = {
