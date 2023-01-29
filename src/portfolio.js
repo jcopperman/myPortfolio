@@ -23,7 +23,7 @@ const greeting = {
   username: "opesinorbit",
   title: "Hi, I'm Jonathan Opperman, but you can call me Jono!",
   subTitle: emoji(
-    "I'm passionate about DevOps and test architecture with experience in platform engineering test automation and working with cool stuff like Azure, Docker and IaC!"
+    "I'm passionate about DevOps and Test architecture with experience in platform engineering test automation and working with cool stuff like Azure, Docker and IaC!"
   ),
   resumeLink:
     "https://drive.google.com/file/d/1NBJ7vcFbtyDmHwcgBbwXYH3Sh3WtrnOH/view?usp=sharing", // Set to empty to hide the button
